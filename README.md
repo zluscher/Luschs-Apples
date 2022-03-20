@@ -1,4 +1,3 @@
-# Venture Capital Frontend 
-## Frontend for a venture capital fintech company Luschs apples
+# Venture Capital for Luschs Apples
 
 
